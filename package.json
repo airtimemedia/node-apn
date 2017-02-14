@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "debug": "^2.3.2",
-    "http2": "https://github.com/node-apn/node-http2/archive/apn-2.1.2.tar.gz",
+    "http2": "github:airtimemedia/node-http2#flow-fix",
     "node-forge": "^0.6.45",
     "jsonwebtoken": "^7.1.9",
     "verror": "^1.8.1"
